@@ -7,7 +7,7 @@ require 'directors_database'
 def gross_for_director(director_data)
   total_worldwide_gross = 0
   director_index = 0
-  while 
+  while director_index < director_data.count
 
 end
 
