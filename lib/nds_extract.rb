@@ -16,7 +16,7 @@ def gross_for_director(director_data)
       movie_index += 1
     end
 
-  return total_worldwide_gross
+  p total_worldwide_gross
   
 end
 
